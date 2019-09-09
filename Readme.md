@@ -2,7 +2,8 @@
 
 ## Intro
 
-This repo hosts scripts to spin an AKS cluster in Azure with active directory integeration. This repo is designed for demos.
+This repo hosts scripts to spin an AKS cluster in Azure with active directory integeratio and setup Helm.
+This repo is designed for demos.
 
 ## pre-requisites
 
