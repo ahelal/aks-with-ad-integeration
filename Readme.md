@@ -17,7 +17,7 @@ Optional
 ## Install
 
 1. Clone the repo. 
-2. `cp vars.example.sh vars.sh``
+2. `cp vars.example.sh vars.sh`
 3. customize `vars.sh`
 
 ### Deploy AKS
