@@ -1,6 +1,5 @@
 #!/bin/bash
 set -ue
-# Generate Server/Client App/SP
 
 # shellcheck source=scripts/_sp_server.sh
 . "${ROOT_PATH}"/scripts/_sp_server.sh
